@@ -1,6 +1,6 @@
 # Hyperblog 💚
 Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> El curso de Git y Github de Platzi es esencial para el manejo de versiones y sera de mucha ultilidad, una vez comience mi aprendizaje con Pyton:tw-1f40d:
+> El curso de Git y Github de Platzi es esencial para el manejo de versiones y sera de mucha ultilidad, una vez comience mi aprendizaje con 🐍
 > - AT83
 
 ## En este curso vemos de todo
