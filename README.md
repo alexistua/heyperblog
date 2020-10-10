@@ -11,5 +11,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 * Creado por Alexis E. Tua T.
 * Incluimos ejemplos en Windows, Linux y Mac.
+* Disponible para todas edades
 
  [**Revisa el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
