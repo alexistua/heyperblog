@@ -9,5 +9,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por Alexis E. Tua T.
 
  [**Revisa el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
